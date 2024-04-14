@@ -1,0 +1,9 @@
+[DWH]
+DWH_INSTANCE_ID = E-Dreams-DWH
+DWH_NAME = DWH_E_Dreams
+DWH_USER = mysql_admin
+DWH_PASSWORD = e8jf7ovPW0eCfrVv46sS
+DWH_PORT = 3306
+
+[VPC]
+SECURITY_GROUP=sg-0e632206bc2ea7dd9
